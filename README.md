@@ -1,7 +1,7 @@
 # bootcamp_arkademytest
 Test Bootcamp Arkademy Kloter 2 Batch 11
 
-Software yang saya gunakan : PHP versi 7.2.9, Visual Studio Code
+Software yang saya gunakan : PHP versi 7.2.19, Visual Studio Code
 
 
 
